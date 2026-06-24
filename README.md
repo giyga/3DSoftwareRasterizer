@@ -10,3 +10,8 @@ A software-based 3D rasterizer engine made from scratch with C and SDL. Made wit
 *The following render modes: Wireframe, textured wireframe, textured mesh and blank mesh with flat shading illumination.
 
 *A Doom-style camera that can be controlled with the keyboard's directional keys.
+
+
+[3D finished.webm](https://github.com/user-attachments/assets/9b0caeb1-7842-42c0-9376-8bca70723c8c)
+
+
